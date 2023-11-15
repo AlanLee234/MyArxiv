@@ -1,7 +1,9 @@
 let titles_type = ["Survey", "Review", "Overview"];
-let titles_model = ["Data", "Lake", "Transformer"];
+let titles_model = ["Transformer"];
 let titles_method = [];
-let titles =  titles_model + titles_method + titles_type;
+let titles_keyword = ["Data", "Lake"];
+let titles =  titles_model + titles_method + titles_type + titles_keyword;
+
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 
 let conferences = [
