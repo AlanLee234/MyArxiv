@@ -4,7 +4,7 @@ let titles_method = [];
 let titles_keyword = ["Data", "Lake"];
 let titles =  titles_model + titles_method + titles_type + titles_keyword;
 
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
+let authors_array = ["Raul Castro Fernandez", "Erkang Zhu", "Ye Yuan", "Yunjun Gao", "Chuan Shi", "Alex Teodor Bogatu"];
 
 let conferences = [
     // conference
