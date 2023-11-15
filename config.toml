@@ -4,13 +4,13 @@ cache_url = "https://AlanLee234.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
-category = "cs.CL"
-title = "Computation and Language"
+category = "cs.DB"
+title = "Databases"
 
 [[sources]]
 limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
+category = "cs.DC"
+title = "Distributed, Parallel, and Cluster Computing"
 
 [[sources]]
 limit = 150
@@ -19,13 +19,13 @@ title = "Information Retrieval"
 
 [[sources]]
 limit = 150
-category = "cs.LG"
-title = "Machine Learning"
+category = "cs.AI"
+title = "Artificial Intelligence"
 
 [[sources]]
 limit = 150
-category = "cs.MM"
-title = "Multimedia"
+category = "cs.CE"
+title = "Computational Engineering, Finance, and Science"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
