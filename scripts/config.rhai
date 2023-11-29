@@ -1,7 +1,7 @@
 let titles_type = ["Survey", "Review", "Overview"];
 let titles_model = ["Transformer"];
 let titles_method = [];
-let titles_keyword = ["Data", "Lake"];
+let titles_keyword = ["Data", "Lake", "Multi-modal", "Graph"];
 let titles =  titles_model + titles_method + titles_type + titles_keyword;
 
 let authors_array = ["Raul Castro Fernandez", "Erkang Zhu", "Ye Yuan", "Yunjun Gao", "Chuan Shi", "Alex Teodor Bogatu"];
